@@ -6,5 +6,8 @@ $link=mysql_connect('localhost','root','');
 
 if($link)
 {
-	echo "connection OK";
+	echo "connection OOK";
+
+}else{
+	echo 'connect fail '.mysql_error();
 }
