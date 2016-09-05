@@ -5,6 +5,7 @@ echo '1233';
 $link=mysql_connect('localhost','root','');
 
 echo 'test';
+echo 'test1';
 
 if($link)
 {
