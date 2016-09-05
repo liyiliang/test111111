@@ -21,3 +21,4 @@ mysql_select_db('test');
 $sql="show tables";
 mysql_query($sql);
 
+mysql_close();
