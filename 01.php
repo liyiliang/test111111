@@ -1,5 +1,7 @@
 <?php 
 
+
+echo 232;
 echo '1233';
 
 $link=mysql_connect('localhost','root','');
