@@ -22,6 +22,8 @@ if($link)
 
 }
 
+
+hhhh
 mysql_select_db('test');
 
 $sql="show tables";
