@@ -5,8 +5,7 @@ iiii222iiiiiiiiiiiiiiii20190122
 echo 232;
 echo '1233';
 
-$link=mysql_connect('localhost','root','');
-
+h[''
 echo 'test';
 echo 'test1';
 
