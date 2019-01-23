@@ -4,7 +4,7 @@ iiii<?php
 //iiii
 echo 232;
 echo '1233';
-
+ecchjpp[
 $link=mysql_connect('localhost','root','');
 
 echo 'test';
